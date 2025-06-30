@@ -2,7 +2,7 @@ import 'package:clickcart/controller/home_controller.dart';
 import 'package:clickcart/pages/add_product_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
+// project done using rapid flutter you tube channel.
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
